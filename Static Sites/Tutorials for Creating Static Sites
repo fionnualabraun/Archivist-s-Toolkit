@@ -1,0 +1,5 @@
+Check out the tutorial below, then follow along in my notes to figure out where it broke for me, and how I fixed it, so you don't have to suffer!
+https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
+
+You can also create a static site to house material using Pelican. I haven't tried this, but here's a Google Colab notebook that you should be able to copy-paste into your own terminal to get it to work!
+https://github.com/shawngraham/pelican-via-google-colab/
