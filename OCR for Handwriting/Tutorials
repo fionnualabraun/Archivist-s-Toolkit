@@ -1,0 +1,14 @@
+OCR tools for assessing handwriting are ever-changing and often seem to require a baffling number of logins, permissions, and accounts. I played around with Microsoft Azure for a bit, and it was decidedly unhelpful.
+
+I've had much more luck with Qwen2-VL-7B, which sounds horrifying, but stay with me.
+
+Here's the link: https://huggingface.co/spaces/GanymedeNil/Qwen2-VL-7B
+
+Now, go ahead and drop an image, and in the question box, tell it to read and transcribe the text in the image. Then run it!
+
+If you want to get fancy, you can make the prompt more complicated. For example, if the text is in another language, it will provide a decent translation!
+
+You can also ask it to read something that is typewritten or handwritten, and it will take this into account.
+
+Another tool you could maybe give a try (although I haven't had much success with it in the past) is PaddleOCR. Here's a Google Colab notebook that should allow you to play around with it:
+https://colab.research.google.com/drive/1TYhLsOYW4nVfX5NP8Fi-O1QU0_ndj_ik
