@@ -1,0 +1,7 @@
+This might not be so applicable to your work as an archivist, but I think it might be helpful for some of the other projects you're working on!
+
+An introduction to APIs, with accompanying tutorial (that I haven't tried): https://programminghistorian.org/en/lessons/introduction-to-populating-a-website-with-api-data
+
+Google Colab notebook that teaches you how to use an API to scrape the Chronicling America Newspaper (does work as of November 2024): https://colab.research.google.com/github/o-date/working-with-apis/blob/master/notebooks/chronicling%20america%20api.ipynb
+
+Incredibly useful tutorial (that works) that teaches you to download entire websites off the internet using WGET, but be careful not to download too much onto your machine at once, this is bad internet etiquette: https://programminghistorian.org/en/lessons/applied-archival-downloading-with-wget
